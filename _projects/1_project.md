@@ -1,12 +1,26 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: BMW
+description: Process optimization for V8 motor Injector Assembly 
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
+
+Challenge: 
+The V8 motor assembly line faced frequent injector damage due to improper handling -- injectors were loosely placed on trays, causing collisions. With 2,400 injectors processed daily (8 per motor, 300 motors/day), this led to quality issues and increased costs.
+
+Solution & Role:
+I was responsible for designing and implementing a pre-assembly process to prevent injector damage and improve efficiency. My key contributions included:
+Process Redesign: Developed a structured pre-assembly system to improve handling and reduce defects.
+Stakeholder & Supplier Coordination: Led meetings with internal teams and external suppliers to align requirements, select materials, and ensure feasibility.
+Project Oversight: Managed supplier execution, monitored production impact, and ensured successful integration into the assembly line.
+
+Results & Strategic Impact:
+Reduced defect rates by eliminating a key failure mode, leading to cost savings in waste and rework.
+Increased efficiency by streamlining assembly, ensuring higher quality output.
+Gained expertise in process optimization, supplier management, and strategic problem-solving%E2%80%94critical for driving industrial strategy at scale.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
