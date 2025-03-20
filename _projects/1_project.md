@@ -2,7 +2,7 @@
 layout: page
 title: BMW
 description: Process optimization for V8 motor Injector Assembly 
-img: assets/img/12.jpg
+img: assets/img/BMW M Logo.avif
 importance: 1
 category: work
 related_publications: false
